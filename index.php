@@ -8,10 +8,12 @@
 </head>
 <body>
 	<h1 style="text-align:center">welcom to our website</h1>
-	<h3 style="text-align:right">چگونه برنامه نویس شویم؟</h3>
-	<?php echo $_SERVER["PHP_SELF"]."<br/>";
-		echo $_SERVER["SERVER_NAME"]."<br/>";
-		echo $_SERVER["SCRIPT_NAME"];
-	?>
+	<head>
+		<nav>
+			<a href="DeleteAccount.php">Delete Account</a> <br/>
+			<a href="profile.php">profile</a> <br/>
+			<a href="shop.php">online shop</a> <br/>
+		</nav>
+	</head>
 </body>
 </html>
