@@ -7,7 +7,9 @@
 	<title>home page</title>
 </head>
 <body>
-	<h1 style="text-align:center">welcom to our website</h1>
+	<h1 style="text-align:center">
+	welcom to our website
+	</h1>
 	<head>
 		<nav>
 			<a href="DeleteAccount.php">Delete Account</a> <br/>
