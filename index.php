@@ -13,7 +13,7 @@
 			<a href="DeleteAccount.php">Delete Account</a> <br/>
 			<a href="profile.php">profile</a> <br/>
 			<a href="shop.php">online shop</a> <br/>
-	<?php echo "Hello world"; ?>
+	<?php echo "Hello"; ?>
 		</nav>
 	</head>
 </body>
